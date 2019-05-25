@@ -12,7 +12,7 @@ DIANet[[paper]](www.baidu.com) provides a universal framework that recurrently f
 
 
 ![image](https://github.com/gbup-group/DIANet/blob/master/image/fig1.jpg)
-
+huangtu~!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ## Install
@@ -42,7 +42,7 @@ DIANet[[paper]](www.baidu.com) provides a universal framework that recurrently f
 
 - After five times experiments, we show the mean performance in the table above. 
 - `r` denote reduction ratio in DIA unit. 
-- For more implementation details and parameter settings for each model, check the code or the appendix of our paper.
+- For more implementation details and parameter settings check the code or the appendix of our paper.
 
 
 ## Citing DIANet
