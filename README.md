@@ -3,7 +3,7 @@
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
-This repo is a official implementation of "DIANet: Dense-and-Implicit Attention Network" on CIFAR-100 dataset. Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification). 
+This repo is an official implementation of "DIANet: Dense-and-Implicit Attention Network" on CIFAR-100 dataset. Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification). 
 
 ## Introduction
 
@@ -15,12 +15,22 @@ DIANet[[paper]](www.baidu.com) provides a universal framework that recurrently f
 
 
 
-## Requirements
+## Install
+* Install [PyTorch](http://pytorch.org/)
+* Clone the DIANet repository
+  ```
+  git clone https://github.com/gbup-group/DIANet.git
+  ```
 
 ## Usage
+  ```
+ python run_code.py
+  ```
+
+
 
 ## Results
-|                 | original | DIANet |
+|                 | original | DIANet(r=4) |
 |:---------------:|:--------:|:------:|
 |    ResNet164    |   73.43  |  76.67 |
 |   PreResNet164  |   76.53  |  78.20 |
@@ -28,9 +38,12 @@ DIANet[[paper]](www.baidu.com) provides a universal framework that recurrently f
 | ResNext101,8x32 |   81.18  |  82.46 |
 
 
+**Notes:**
 
-table
-detail appendix
+- After five times experiments, we show the mean performance in the table above. 
+- `r` denote reduction ratio in DIA unit. 
+- For more implementation details and parameter settings for each model, check the code or the appendix of our paper.
+
 
 ## Citing DIANet
 
