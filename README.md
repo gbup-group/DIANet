@@ -3,12 +3,12 @@
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
-This repo is a official implementation of "DIANet: Dense-and-Implicit Attention Network" on CIFAR-100 dataset. Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification). DIANet provides a universal framework that recurrently fuses the information from preceding layers to enhance the attention modeling at each layer. The existing network backbone can embed DIA unit readily by sharing the DIA unit with all the layers. In the implementation, an LSTM-based DIA unit is provided with modification of standard LSTM module.
-
+This repo is a official implementation of "DIANet: Dense-and-Implicit Attention Network" on CIFAR-100 dataset. Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification). 
 
 ## Introduction
 
-DIANet[[paper]](www.baidu.com)
+DIANet[[paper]](www.baidu.com) provides a universal framework that recurrently fuses the information from preceding layers to enhance the attention modeling at each layer. The existing network backbone can embed DIA unit readily by sharing the DIA unit with all the layers. In the implementation, an LSTM-based DIA unit is provided with modification of standard LSTM module.
+
 
 
 ![image](https://github.com/gbup-group/DIANet/blob/master/image/fig1.jpg)
