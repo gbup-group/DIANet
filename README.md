@@ -1,3 +1,3 @@
 # DIANet:Dense-and-Implicit-Attention-Network
 
-Here is our work.
+![image](https://github.com/gbup-group/DIANet/image/fig1.jpg)
