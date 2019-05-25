@@ -11,7 +11,7 @@ DIANet[[paper]](www.baidu.com) provides a universal framework that recurrently f
 
 
 
-![image](https://github.com/gbup-group/DIANet/blob/master/image/fig1.jpg)
+![image](https://github.com/gbup-group/DIANet/blob/master/image/fig2.jpg)
 huangtu~!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
