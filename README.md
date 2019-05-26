@@ -1,7 +1,7 @@
 # DIANet:Dense-and-Implicit-Attention-Network
 [![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
-[![Build status](https://travis-ci.org/atotto/travisci-golang-example.png)](https://travis-ci.org/atotto/travisci-golang-example)
 ![GitHub](https://img.shields.io/github/license/gbup-group/DIANet.svg)
+![GitHub stars](https://img.shields.io/github/stars/gbup-group/DIANet.svg?style=social)
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
