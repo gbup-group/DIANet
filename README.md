@@ -1,7 +1,7 @@
 # DIANet:Dense-and-Implicit-Attention-Network
 [![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 ![GitHub](https://img.shields.io/github/license/gbup-group/DIANet.svg)
-![GitHub](https://img.shields.io/badge/gbup-%E7%89%9B-blue.svg)
+![GitHub](https://img.shields.io/badge/gbup-%E7%A8%B3%E4%BD%8F-blue.svg)
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
