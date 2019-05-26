@@ -13,7 +13,7 @@ DIANet[[paper]](www.google.com) provides a universal framework that recurrently 
 
 
 
-![image](https://github.com/gbup-group/DIANet/blob/master/image/fig3.jpg)
+![image](https://github.com/gbup-group/DIANet/blob/master/image/fig4.jpg)
 
 
 ## Install
