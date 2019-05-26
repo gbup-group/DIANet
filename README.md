@@ -9,7 +9,7 @@ This repo is an official implementation of "DIANet: Dense-and-Implicit Attention
 
 ## Introduction
 
-DIANet[[paper]](www.google.com) provides a universal framework that recurrently fuses the information from preceding layers to enhance the attention modeling at each layer. The existing network backbone can embed DIA unit readily by sharing the DIA unit with all the layers. In the implementation, an LSTM-based DIA unit is provided with modification of standard LSTM module.
+DIANet[[paper]](www.google.com) provides a universal framework that recurrently fuses the information from preceding layers to enhance the attention modeling at each layer. The existing network backbone can embed DIA unit readily by sharing the DIA unit with all the layers. In the implementation, an LSTM-based DIA unit is provided.
 
 
 
