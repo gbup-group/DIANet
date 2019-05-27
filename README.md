@@ -5,7 +5,7 @@
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
-This repo is an official implementation of "DIANet: Dense-and-Implicit Attention Network"[[paper]](www.baidu.com)  on CIFAR-100 dataset. Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification). 
+This repo is an official implementation of "DIANet: Dense-and-Implicit Attention Network" [[paper]](www.baidu.com)  on CIFAR-100 dataset. Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification). 
 
 ## Introduction
 
