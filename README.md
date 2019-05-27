@@ -2,7 +2,7 @@
 [![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 ![GitHub](https://img.shields.io/github/license/gbup-group/DIANet.svg)
 ![GitHub](https://img.shields.io/badge/gbup-%E7%A8%B3%E4%BD%8F-blue.svg)
-[![Analytics](https://ga-beacon.appspot.com/UA-140862400-1/DIANet/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-140905834-1/DIANet/readme)](https://github.com/igrigorik/ga-beacon)
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
