@@ -5,11 +5,11 @@
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://github.com/LeungSamWai), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
-This repo is the official implementation of "DIANet: Dense-and-Implicit Attention Network" [[paper]](www.baidu.com)  on CIFAR-100 dataset.
+This repo is the official implementation of "DIANet: Dense-and-Implicit Attention Network" [[paper]](https://arxiv.org/pdf/1905.10671.pdf)  on CIFAR-100 dataset.
 
 ## Introduction
 
-DIANet[[paper]](www.google.com) provides a universal framework that recurrently fuses the information from preceding layers to enhance the attention modeling at each layer. The existing network backbone can embed DIA unit readily by sharing the DIA unit with all the layers. In the implementation, an LSTM-based DIA unit is provided.
+DIANet[[paper]](https://arxiv.org/pdf/1905.10671.pdf) provides a universal framework that recurrently fuses the information from preceding layers to enhance the attention modeling at each layer. The existing network backbone can embed DIA unit readily by sharing the DIA unit with all the layers. In the implementation, an LSTM-based DIA unit is provided.
 
 
 
