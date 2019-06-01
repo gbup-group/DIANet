@@ -44,7 +44,7 @@ DIANet[[paper]](https://arxiv.org/pdf/1905.10671.pdf) provides a universal frame
 - After five times experiments, we show the mean performance in the table above. 
 - `r` denote reduction ratio in DIA unit. 
 - For more implementation details and parameter settings check the code or the appendix of our paper.
-
+- Testing on **2*GPU(P100)**
 
 ## Citing DIANet
 
