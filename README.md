@@ -49,7 +49,12 @@ DIANet[[paper]](https://arxiv.org/pdf/1905.10671.pdf) provides a universal frame
 ## Citing DIANet
 
 ```
-xxxxxhi
+@article{huang2019dianet,
+  title={DIANet: Dense-and-Implicit Attention Network},
+  author={Huang, Zhongzhan and Liang, Senwei and Liang, Mingfu and Yang, Haizhao},
+  journal={arXiv preprint arXiv:1905.10671},
+  year={2019}
+}
 ```
 ## Acknowledgments
 Many thanks to [bearpaw](https://github.com/bearpaw) for his simple and clean [framework](https://github.com/bearpaw/pytorch-classification) for image classification task(PyTorch).
