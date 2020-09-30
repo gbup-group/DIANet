@@ -5,7 +5,7 @@
 
 By [Zhongzhan Huang](https://github.com/dedekinds), [Senwei Liang](https://leungsamwai.github.io), [Mingfu Liang](https://github.com/wuyujack) and [Haizhao Yang](https://haizhaoyang.github.io/).
 
-This repo is the official implementation of "DIANet: Dense-and-Implicit Attention Network" [[paper]](https://arxiv.org/pdf/1905.10671.pdf)  on CIFAR-100 dataset. Our paper has been accepted for POSTER presentation at the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20).
+This repo is the official implementation of "DIANet: Dense-and-Implicit Attention Network" [[paper]](https://arxiv.org/pdf/1905.10671.pdf)  on CIFAR-100 dataset. Our paper has been accepted for POSTER presentation at the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20). You can also check with the [proceeding version](https://aaai.org/ojs/index.php/AAAI/article/view/5842).
 
 ## Introduction
 
